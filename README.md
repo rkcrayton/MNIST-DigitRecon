@@ -42,8 +42,8 @@ numpy
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/mnist-digit-recognition.git
-cd mnist-digit-recognition
+git clone https://github.com/rkcrayton/MNIST-DigitRecon.git
+cd MNIST-DigitRecon
 pip install -r requirements.txt
 ```
 
